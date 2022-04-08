@@ -100,9 +100,9 @@ button {
 .quote-section {
   margin-top: 120px;
   background-color: #e5e7eb;
-  padding: 200px;
+  padding: 140px 0;
   font-size: 36px;
-  font-weight: 300;
+  font-weight: 100;
 }
 
 .quote-section p {
@@ -110,9 +110,11 @@ button {
   font-size: 24px;
   color: #1f2937;
   font-weight: 900;
+  text-align: right;
+  padding-right: 40px;
 }
 
 .quote-container {
-  width: 900px;
+  width: 780px;
   margin: 0 auto;
 }
